@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building Backend.<br>🌱 I’m currently learning more about Node.js.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 16 hour either staring at bugged code, lifting weight or some badass anime.
+🔭 I’m currently building Backend.<br>🌱 I’m currently learning more about Node.js.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 16 hour either staring at bugged code, lifting weight or some badass anime.
 
 
 ## 🌐 Socials:
